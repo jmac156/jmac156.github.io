@@ -13,7 +13,24 @@ This is a simple display of some of the technology that was in the pieces of my 
 
 ### HTML/CSS/Javascript Front End
 
+The First piece of the project is a web interface for entering Reviews. There is a simple page to enter a review in a Form. 
 
-### Support or Contact
+You can see the Site at http://www.geocities.ws/petercler/index.html.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can read the report on this part of the project at this link https://tinyurl.com/ya26qbmu.
+
+### Restful API
+
+The Second Piece of the Project is a restful web API that allows for calls to a database through the internet.
+
+You can read the enhancement report at this link https://tinyurl.com/y82qhqfd
+
+## MongoDB Database
+
+The Third Peice of the Project centers on the MongoDB database that actually stores the reviews data. 
+
+You can read the enhancement report here https://tinyurl.com/y765kogt
+
+## Self Assessment
+
+Lastly, I have made an introspective review of my time in school in this Self-Assessment https://tinyurl.com/yaxkqpce

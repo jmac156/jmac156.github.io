@@ -1,36 +1,20 @@
-## Welcome to GitHub Pages
+## Peter Cler - Portfolio 
 
-You can use the [editor on GitHub](https://github.com/jmac156/jmac156.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, My name is Peter Cler and I am recent Computer Science Graduate of Southern New Hampshire University. In my time In school, I learned a great many things that improved my understanding of technology and the world. In this Portfolio, I am showing a few of the improvements that have made to my Skills as a Software Developer. I hope that you enjoy your time here. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My Regards,
+Peter
 
-### Markdown
+### Informal Code Review. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a simple display of some of the technology that was in the pieces of my project before. It is styled as a Video Code Review.
 
-```markdown
-Syntax highlighted code block
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=YZ__MTsMdoc&feature=youtu.be">
+</iframe>
 
-# Header 1
-## Header 2
-### Header 3
+### HTML/CSS/Javascript Front End
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jmac156/jmac156.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 

@@ -9,7 +9,7 @@ Peter
 
 This is a simple display of some of the technology that was in the pieces of my project before. It is styled as a Video Code Review.
 
-<video src="https://www.youtube.com/watch?v=YZ__MTsMdoc&feature=youtu.be" width="320" height="200" controls preload></video>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=YZ__MTsMdoc&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### HTML/CSS/Javascript Front End
 

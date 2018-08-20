@@ -19,20 +19,20 @@ The First piece of the project is a web interface for entering Reviews. There is
 
 You can see the Site at http://www.geocities.ws/petercler/index.html.
 
-You can read the report on this part of the project at this link https://tinyurl.com/ya26qbmu.
+You can read the report on this part of the project at this [link](https://tinyurl.com/ya26qbmu).
 
 ### Restful API
 
 The Second Piece of the Project is a restful web API that allows for calls to a database through the internet.
 
-You can read the enhancement report at this link https://tinyurl.com/y82qhqfd
+You can read the enhancement report at this [link](https://tinyurl.com/y82qhqfd)
 
 ## MongoDB Database
 
 The Third Peice of the Project centers on the MongoDB database that actually stores the reviews data. 
 
-You can read the enhancement report here https://tinyurl.com/y765kogt
+You can read the enhancement report [here](https://tinyurl.com/y765kogt)
 
 ## Self Assessment
 
-Lastly, I have made an introspective review of my time in school in this Self-Assessment https://tinyurl.com/yaxkqpce
+Lastly, I have made an introspective review of my time in school in this [Self-Assessment](https://tinyurl.com/yaxkqpce)

@@ -17,7 +17,7 @@ This is a simple display of some of the technology that was in the pieces of my 
 
 The First piece of the project is a web interface for entering Reviews. There is a simple page to enter a review in a Form. 
 
-You can see the Site at http://www.geocities.ws/petercler/index.html.
+You can see the Site hosted on [Geocities](http://www.geocities.ws/petercler/index.html).
 
 You can read the report on this part of the project at this [link](https://tinyurl.com/ya26qbmu).
 
